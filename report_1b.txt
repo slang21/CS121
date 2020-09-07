@@ -113,7 +113,17 @@ Example Service: Mint, YNAB
 		Mint has no features of credit optimization or suggestion available.
 		Mint offers many credit card promotions but barely helps people to make smart choices.
 -----------------------
-Complete Summary: For all competitors, we would maintain similar benefits. We can utilize the idea of not being a credit lender ourselves to provide similar security and improved ease of use. Our method should be equally safe as using electronic payment methods. None of our competitors use automated card optimization. Financial recommenders have benefits such as providing a wide diversity of tips on how people can better manage their credit spending that we could use or improve on, however, they do not allow people to make payments utilizing this payment. Credit card management platforms have the advantage of managing your finances in one single platform as well as tracking transactions. The common benefit between all competitors is that all services are localized for ease of use and convenience. However, our product would tie these services together into a much more easy to use platform. We would enable people to automate the use of information that a personal finance blog, while providing “middle man” payment services.
+Complete Summary: 
+
+For all competitors, we would maintain similar benefits. We can utilize the idea of not being a credit lender ourselves to provide similar security and improved 
+ease of use. Our method should be equally safe as using electronic payment methods. None of our competitors use automated card optimization. Financial
+recommenders have benefits such as providing a wide diversity of tips on how people can better manage their credit spending that we could use or improve on. 
+However, they do not allow people to make payments utilizing this payment. Credit card management platforms have the advantage of managing your finances in one 
+single platform as well as tracking transactions. 
+
+The common benefit between all competitors is that all services are localized for ease of use and convenience. However, our product would tie these services 
+together into a much more easy to use platform. We would enable people to automate the use of information that a personal finance blog, while providing “middle  
+man” payment services.
 
 
 
