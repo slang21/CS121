@@ -1,0 +1,116 @@
+Team: Breakout Room 5
+Members: Spencer Lang, Reymon Pedroza, Max Yulei Guo
+Project: P1B Competitive Research and Positioning 
+	Github URL: 
+	Primary Author: All members
+Current Observable “Competitors”: 
+“Middle Man” Payment Methods (protecting users through layering payment): Apple Pay, Amazon Pay, PayPal, Google pay, Privacy card, 
+Card Aggregation (allows you to pay from multiple cards using one source): Apple Pay, Amazon Pay, PayPal, Google pay
+Credit Card Management software (help with payments etc.): Grutor mentioned “Mint”, YNAB, 
+Credit optimizers (gives advice on improving credit/benefits): Card recommenders, Nerd Wallet
+
+
+
+Apple Pay: A contactless payment method for Apple Devices. When paying you can choose the cards that you have set up on the device.
+Apple Pay Benefits
+Provides cardholders several layers of security
+Passcode and Touch/Face ID
+Unique Token upon use (merchants never get card number)
+Apple doesn’t store card on device or servers
+Allows selection of card before payment
+Works with most Apple devices (IPhones/Watches)
+Apple Pay doesn't share static information or require a swipe
+Information cannot be skimmed 
+Prevents scanning of magnetic strip or chip of credit cards
+Can suspend device and disable Apple Pay
+Can be used in several countries
+Apple Pay Weaknesses
+Only for Apple users
+Face/Touch ID can be bypassed through device passcode
+Sharing passcode could allow someone to make their own biometric profile and use Apple Pay
+Dangerous to add cards if on an unsecure Wi-Fi network,
+Stolen device allows access to credit cards
+Some locations do not use app payments or prefer cash/card only
+Bad iCloud reputation causing users to be scared of using Apple Pay
+No prepaid account
+No built-in prepaid account for customers whose banks don’t participate 
+For Card Aggregation and “Middle Man” Payment Methods (other than Privacy Cards):
+General Benefits of Mobile/Device payment methods:
+Simple
+Generally easy to set up and use
+Safety
+Most have high level of security
+No longer have to worry about losing cards or getting it skimmed
+Convenience
+Wallet no longer needed; only device
+Advertised
+Active promotion and reward programs
+
+General Weaknesses of Mobile/Device payment methods:
+Merchant Discretion 
+Stores might prefer physical payments such as cash or card
+Online stores might not support certain payment methods or rely on card 
+Dependent On Devices
+Some devices don’t support certain payment methods
+Apple pay only on Apple devices
+Older phones might not support the apps
+Can’t pay without device
+If lost, app is deleted, or battery dies, you can't pay
+Concerns of Data Privacy
+Concerns about how secure the security is
+Concerns about whether traces during transaction can be monitored
+Lack of physical receipts (transactions are recorded)
+In summary, for both card aggregation and payment methods, we can utilize the same concepts of simplicity and ease of use. We can utilize the idea of not using the actual cards for security and ease of use reasons. The merchant discretion weakness would still apply since our method would be using the same cards. Our method should be equally safe as using electronic payment methods. None of the competitors use card optimization.
+Privacy Card: A privacy card is essentially a temporary card number that a credit or debit card number can be linked to through a website or on a mobile app. Main website recommended is Privacy.com for US customers and Revolut for the UK. Privacy.com creates debit card numbers and makes their profit through a transaction cut from Visa.
+Privacy Card Benefits
+Free to use
+No credit check
+Option of regular use or one-time
+Prevents overcharging from websites
+Can be locked to specific merchants to prevent card being used elsewhere 
+Bypass use of cards on unsecured websites
+
+Privacy Card Weaknesses 
+Bypasses card info and straight to bank (Specifically for Privacy.com as of 2017)
+Does not use a credit or debit cards as the funding source
+Makes a Visa debit card tied to the bank account
+Summary: Privacy card is probably the most similar platform to what we are trying to build. It enables users to provision several cards and hook them up to various funding sources. We hope to build this into a physical card platform, and take away the necessity for users to make the decision themselves.
+
+
+Credit Optimizers 
+Example Services: Nerdwallet, CreditKarma, other card recommenders and personal finance blogs
+Summary: currently, most credit optimizers are done on an individual basis. It is mostly services that recommend best practices and new credit cards that would suit different lifestyles. However, most of these services are, as aforementioned, rather dense/only really worthwhile if someone has a preexisting interest in improving their credit/rewards. This means that for the average person who likely does not care that much, these services are not necessarily a likely investment.
+Strengths:
+Offer very interesting and potentially hard to access information easily
+Attempts to give advice for people in varying credit/financial situations.
+Lots and lots of data and research goes into their articles, and they frequently have the most up to date info concerning the personal finance landscape
+Give a wide diversity of tips on how people can better manage their credit spending
+Weaknesses
+These are harder to access for the layperson.
+They can be rather dense and require some study
+They require the pearson to actively manage their credit spending, it is simply advice that a person can choose to follow.
+Note: this part was done in aggregate because we believe that they offer similar services, and are not necessarily our main competitors. In fact it would be interesting to conduct more research into whether people who frequent these kinds of sites would even be interested in a product where they may lose some control over what card is chosen in a given transaction. 
+
+Credit Management
+
+Example Service: Mint, YNAB
+
+Summary: Current credit management tools are powerful in displaying financial data and helping your budgeting. However, they do not really offer any suggestions or optimization of credit usage. There is a potential room to make the credit platform smarter.
+
+Strength:
+
+Mint is capable of managing your finances in one single platform, including cash, credit and debit.
+Mint helps you to make the budget, monitor spendings, and practice finance management skills.
+Mint allows you to track investment and portfolio quickly.
+Mint cooperates with most U.S. financial institutions and provides strict security protocols.
+
+Weakness:
+
+Mint is not a payment platform. In other words, Mint can only record your transactions.
+Mint has no features of credit optimization or suggestion available.
+Mint offers many credit card promotions but barely helps people to make smart choices.
+-----------------------
+Complete Summary: For all competitors, we would maintain similar benefits. We can utilize the idea of not being a credit lender ourselves to provide similar security and improved ease of use. Our method should be equally safe as using electronic payment methods. None of our competitors use automated card optimization. Financial recommenders have benefits such as providing a wide diversity of tips on how people can better manage their credit spending that we could use or improve on, however, they do not allow people to make payments utilizing this payment. Credit card management platforms have the advantage of managing your finances in one single platform as well as tracking transactions. The common benefit between all competitors is that all services are localized for ease of use and convenience. However, our product would tie these services together into a much more easy to use platform. We would enable people to automate the use of information that a personal finance blog, while providing “middle man” payment services.
+
+
+
