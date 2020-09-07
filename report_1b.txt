@@ -1,7 +1,7 @@
 Team: Breakout Room 5
 Members: Spencer Lang, Reymon Pedroza, Max Yulei Guo
 Project: P1B Competitive Research and Positioning 
-	Github URL: 
+	Github URL: https://github.com/slang21/CS121/blob/master/report_1b.txt
 	Primary Author: All members
 Current Observable “Competitors”: 
 “Middle Man” Payment Methods (protecting users through layering payment): Apple Pay, Amazon Pay, PayPal, Google pay, Privacy card, 
